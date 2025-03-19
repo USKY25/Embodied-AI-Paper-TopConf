@@ -17,13 +17,14 @@
   - [Planning and Reasoning](#planning-and-reasoning)
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
-
+- [📖 ICRA2024](#icra2024)
+  
 # CVPR2025
 
 ## Vision-Language-Action Models
 - A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [Paper](https://arxiv.org/abs/2503.06960) [Page](https://github.com/CVMI-Lab/SlotMIM)
 - **Think Small, Act Big**: Primitive Prompt Learning for Lifelong Robot Manipulation
-- **Phoenix**: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction
+- **Phoenix**: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction [Paper](https://cvpr.thecvf.com/virtual/2025/poster/32789)
 - **OmniManip**: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [Paper](https://arxiv.org/abs/2501.03841)
 - Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation [Paper](https://arxiv.org/abs/2406.14235)
 - Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/34522)
@@ -45,7 +46,7 @@
 - **ZeroGrasp**: Zero-Shot Shape Reconstruction Enabled Robotic Grasping [Paper](https://cvpr.thecvf.com/virtual/2025/poster/32440)
 
 ## Humanoid
-- Let Humanoid Robots Go Hiking! Integrative Skill Development over Complex Trails[Page](https://lego-h-humanoidrobothiking.github.io/)
+- Let Humanoid Robots Go Hiking! Integrative Skill Development over Complex Trails [Page](https://lego-h-humanoidrobothiking.github.io/)
 - **MobileH2R**: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data [Paper](https://arxiv.org/abs/2501.04595)
 
 ## 3D Vision
@@ -64,7 +65,7 @@
 
 ## Sim2real and Real2sim
 - **Prof. Robot**: Differentiable Robot Rendering Without Static and Self-Collisions [Paper](https://arxiv.org/abs/2503.11269)
-- **AutoURDF**: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration[Paper](https://arxiv.org/abs/2412.05507) [Page](https://github.com/jl6017/AutoURDF)
+- **AutoURDF**: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration [Paper](https://arxiv.org/abs/2412.05507) [Page](https://github.com/jl6017/AutoURDF)
 
 ## Benchmark and Dataset
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)[Paper](https://arxiv.org/abs/2409.02920) [Page](https://robotwin-benchmark.github.io/early-version/)
@@ -112,6 +113,8 @@
 
 ## Sim2real and Real2sim
 - **ReGen**: Generative Robot Simulation via Inverse Design [Paper](https://openreview.net/forum?id=EbCUbPZjM1)
-
-
+  
+# ICRA2024
+- **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [Paper](https://arxiv.org/abs/2503.08007)
+- **QUART-Online**: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning [Paper](https://arxiv.org/abs/2412.15576)
 
