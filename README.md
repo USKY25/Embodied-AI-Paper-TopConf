@@ -77,9 +77,17 @@
 
 ## Vision-Language-Action Models
 - **VLAS**: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [Paper](https://arxiv.org/abs/2502.13508)
+- **ReViWo**: Learning View-invariant World Models for Visual Robotic Manipulation [zhihu](https://zhuanlan.zhihu.com/p/26181243574)
+- **HAMSTER**: Hierarchical Action Models For Open-World Robot Manipulation [Paper](https://arxiv.org/abs/2502.05485)
+- **BadRobot**: Jailbreaking Embodied LLMs in the Physical World [Paper](https://arxiv.org/abs/2407.20242)
+- **STRAP**: Robot Sub-Trajectory Retrieval for Augmented Policy Learning [Paper](https://arxiv.org/abs/2412.15182)
+  
+
 
 ## Policies
-
+- **SRSA**: Skill Retrieval and Adaptation for Robotic Assembly Tasks [Paper](https://arxiv.org/abs/2503.04538)
+- **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper] (https://arxiv.org/abs/2406.20095)
+- Data Scaling Laws in Imitation Learning for Robotic Manipulation [Paper] ([https://arxiv.org/abs/2406.20095](https://arxiv.org/abs/2410.18647))
 
 ## Grasp
 
@@ -88,15 +96,16 @@
 
 
 ## 3D Vision
-
+- 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [Paper](https://arxiv.org/abs/2503.10307)
 
 ## Planning and Reasoning
+- Multi-Robot Motion Planning with Diffusion Models [Paper](https://arxiv.org/abs/2410.03072)
 
 ## Video
-
+- **GEVRM**: Goal-Expressive Video Generation Model For Robust Visual Manipulation [Paper](https://arxiv.org/abs/2502.09268)
 
 ## Sim2real and Real2sim
-
+- **ReGen**: Generative Robot Simulation via Inverse Design [Paper](https://openreview.net/forum?id=EbCUbPZjM1)
 
 ## Benchmark and Dataset
 
