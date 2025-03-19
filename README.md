@@ -5,6 +5,8 @@
 - [📖 Table of Contents](#-table-of-contents)
   - [Vision-Language-Action Models](#vision-language-action-models)
   - [Policies](#policies)
+  - [Grasp](#grasp)
+  - [Humanoid](#humanoid)
   - [Planning and Reasoning](#planning-and-reasoning)
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
@@ -12,8 +14,6 @@
 
 
 ## Vision-Language-Action Models
-- **LLaVA-Critic**: Learning to Evaluate Multimodal Models [Paper](https://arxiv.org/abs/2410.02712) [Page](https://llava-vl.github.io/blog/2024-10-03-llava-critic/)
-- **VLA-Explorer**: Unifying Vision, Language, and Action for Autonomous Agents [Paper](#) [Page](#)
 - A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [Paper](https://arxiv.org/abs/2503.06960) [Page](https://github.com/CVMI-Lab/SlotMIM)
 - **Think Small, Act Big**: Primitive Prompt Learning for Lifelong Robot Manipulation[Paper](#) [Page](#)
 - **Phoenix**: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction [Paper](#) [Page](#)
