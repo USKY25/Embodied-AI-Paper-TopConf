@@ -15,8 +15,8 @@
 
 ## Vision-Language-Action Models
 - A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [Paper](https://arxiv.org/abs/2503.06960) [Page](https://github.com/CVMI-Lab/SlotMIM)
-- **Think Small, Act Big**: Primitive Prompt Learning for Lifelong Robot Manipulation[Paper](#) [Page](#)
-- **Phoenix**: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction [Paper](#) [Page](#)
+- **Think Small, Act Big**: Primitive Prompt Learning for Lifelong Robot Manipulation
+- **Phoenix**: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction
 - **OmniManip**: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [Paper](https://arxiv.org/abs/2501.03841)
 - Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation [Paper](https://arxiv.org/abs/2406.14235)
 - Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/34522)
@@ -40,16 +40,9 @@
 - Let Humanoid Robots Go Hiking! Integrative Skill Development over Complex Trails[Page](https://lego-h-humanoidrobothiking.github.io/)
 - **MobileH2R**: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data [Paper](https://arxiv.org/abs/2501.04595)
 
-## Planning
-- **PlanFormer**: Transformer-based Planning for Embodied Navigation [Paper](#) [Page](#)
-- **Hierarchical Planning in Embodied AI**: Learning Multi-level Strategies for Long-Horizon Tasks [Paper](#) [Page](#)
-
 ## 3D Vision
 - **3D-MVP**: 3D Multiview Pretraining for Robotic Manipulation [Paper](https://arxiv.org/abs/2406.18158)
-- **3D-SceneLearner**: Learning Robust 3D Representations for Embodied Agents [Paper](#) [Page](#)
-- **RealTime3D**: Fast 3D Reconstruction and Scene Understanding for Real-World Interaction [Paper](#) 
-[Page](#)
-- **VidBot**: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation[Paper](https://arxiv.org/abs/2503.07135) [Page](#)
+- **VidBot**: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation[Paper](https://arxiv.org/abs/2503.07135)
 
 ## Planning and Reasoning
 - **RoboBrain**: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [Paper](https://arxiv.org/abs/2502.21257)
@@ -66,8 +59,6 @@
 - **AutoURDF**: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration[Paper](https://arxiv.org/abs/2412.05507) [Page](https://github.com/jl6017/AutoURDF)
 
 ## Benchmark and Dataset
-- **EmbodiedAI Benchmark**: A Comprehensive Dataset for Evaluating Embodied Agents [Paper](#) [Page](#)
-- **Multi-Modal Indoor Navigation Dataset**: Real-world Scenarios for Embodied AI [Paper](#) [Page](#)
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)[Paper](https://arxiv.org/abs/2409.02920) [Page](https://robotwin-benchmark.github.io/early-version/)
 - Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision [Paper](https://arxiv.org/abs/2411.18025)
 - **RoboSense**: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments [Paper](https://arxiv.org/abs/2408.15503)
