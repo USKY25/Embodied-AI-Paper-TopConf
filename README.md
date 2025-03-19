@@ -3,7 +3,7 @@
 
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
-  - [Vision-Language-Action Models](#vla)
+  - [Vision-Language-Action Models](#vision-language-action-models)
   - [Policies](#policy)
   - [Planning](#planning)
   - [3D Vision](#3dv)
@@ -36,19 +36,20 @@
 - **DexGrasp Anything**: Towards Universal Robotic Dexterous Grasping with Physics Awareness [Paper](https://arxiv.org/abs/2503.08257)
 - **ZeroGrasp**: Zero-Shot Shape Reconstruction Enabled Robotic Grasping [Paper](https://cvpr.thecvf.com/virtual/2025/poster/32440)
 
-## Humanoid &amp; Legged Robot
+## Humanoid
 - Let Humanoid Robots Go Hiking! Integrative Skill Development over Complex Trails[Page](https://lego-h-humanoidrobothiking.github.io/)
+- **MobileH2R**: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data [Paper](https://arxiv.org/abs/2501.04595)
+
 ## Planning
 - **PlanFormer**: Transformer-based Planning for Embodied Navigation [Paper](#) [Page](#)
 - **Hierarchical Planning in Embodied AI**: Learning Multi-level Strategies for Long-Horizon Tasks [Paper](#) [Page](#)
 
 ## 3D Vision
+- **3D-MVP**: 3D Multiview Pretraining for Robotic Manipulation [Paper](https://arxiv.org/abs/2406.18158)
 - **3D-SceneLearner**: Learning Robust 3D Representations for Embodied Agents [Paper](#) [Page](#)
 - **RealTime3D**: Fast 3D Reconstruction and Scene Understanding for Real-World Interaction [Paper](#) 
 [Page](#)
 - **VidBot**: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation[Paper](https://arxiv.org/abs/2503.07135) [Page](#)
-- **AutoURDF**: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration[Paper](https://arxiv.org/abs/2412.05507) [Page](https://github.com/jl6017/AutoURDF)
-- **MobileH2R**: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data [Paper](https://arxiv.org/abs/2501.04595)
 
 ## Planning &amp; Reasoning
 - **RoboBrain**: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [Paper](https://arxiv.org/abs/2502.21257)
@@ -60,9 +61,9 @@
 ## Video
 - **Roger**: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation
 
-## 3D Vision
+## Sim2real &amp; Real2sim
 - **Prof. Robot**: Differentiable Robot Rendering Without Static and Self-Collisions [Paper](https://arxiv.org/abs/2503.11269)
-- **3D-MVP**: 3D Multiview Pretraining for Robotic Manipulation [Paper](https://arxiv.org/abs/2406.18158)
+- **AutoURDF**: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration[Paper](https://arxiv.org/abs/2412.05507) [Page](https://github.com/jl6017/AutoURDF)
 
 ## Benchmark & Dataset
 - **EmbodiedAI Benchmark**: A Comprehensive Dataset for Evaluating Embodied Agents [Paper](#) [Page](#)
