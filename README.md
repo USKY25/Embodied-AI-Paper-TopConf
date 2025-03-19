@@ -14,12 +14,9 @@
 - [📖 ICLR2025](#iclr2025)
   - [Vision-Language-Action Models](#vision-language-action-models)
   - [Policies](#policies)
-  - [Grasp](#grasp)
-  - [Humanoid](#humanoid)
   - [Planning and Reasoning](#planning-and-reasoning)
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
-  - [Benchmark and Dataset](#benchmark-and-dataset)
 
 # CVPR2025
 
@@ -80,22 +77,18 @@
 - **ReViWo**: Learning View-invariant World Models for Visual Robotic Manipulation [zhihu](https://zhuanlan.zhihu.com/p/26181243574)
 - **HAMSTER**: Hierarchical Action Models For Open-World Robot Manipulation [Paper](https://arxiv.org/abs/2502.05485)
 - **BadRobot**: Jailbreaking Embodied LLMs in the Physical World [Paper](https://arxiv.org/abs/2407.20242)
-- **STRAP**: Robot Sub-Trajectory Retrieval for Augmented Policy Learning [Paper](https://arxiv.org/abs/2412.15182)
+- **STRAP**: Robot Sub-Trajectory Retrieval for Augmented Policy Learning [Paper](https://arxiv.org/abs/2412.15182) [Project](https://weirdlabuw.github.io/strap/)
   
 
 
 ## Policies
 - **SRSA**: Skill Retrieval and Adaptation for Robotic Assembly Tasks [Paper](https://arxiv.org/abs/2503.04538)
 - **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper] (https://arxiv.org/abs/2406.20095)
-- Data Scaling Laws in Imitation Learning for Robotic Manipulation [Paper] ([https://arxiv.org/abs/2406.20095](https://arxiv.org/abs/2410.18647))
-
-## Grasp
-
-
-## Humanoid
-
+- Data Scaling Laws in Imitation Learning for Robotic Manipulation [Paper] (https://arxiv.org/abs/2410.18647)
+- **Stem-OB**: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion [Paper] (https://arxiv.org/abs/2411.04919)
 
 ## 3D Vision
+- DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo [Paper](https://arxiv.org/abs/2412.05268)
 - 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [Paper](https://arxiv.org/abs/2503.10307)
 
 ## Planning and Reasoning
@@ -106,6 +99,3 @@
 
 ## Sim2real and Real2sim
 - **ReGen**: Generative Robot Simulation via Inverse Design [Paper](https://openreview.net/forum?id=EbCUbPZjM1)
-
-## Benchmark and Dataset
-
