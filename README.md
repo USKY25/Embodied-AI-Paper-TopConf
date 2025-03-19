@@ -1,8 +1,17 @@
 # CVPR2025-ICLR2025-Embodied-AI-Paper-List
 🔥CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources
 
-## 📖 Table of Contents
-- [📖 Table of Contents](#-table-of-contents)
+## 📖 Paper List
+- [📖 CVPR2025](#cvpr2025)
+  - [Vision-Language-Action Models](#vision-language-action-models)
+  - [Policies](#policies)
+  - [Grasp](#grasp)
+  - [Humanoid](#humanoid)
+  - [Planning and Reasoning](#planning-and-reasoning)
+  - [3D Vision](#3d-vision)
+  - [Sim2real and Real2sim](#sim2real-and-real2sim)
+  - [Benchmark and Dataset](#benchmark-and-dataset)
+- [📖 ICLR2025](#iclr2025)
   - [Vision-Language-Action Models](#vision-language-action-models)
   - [Policies](#policies)
   - [Grasp](#grasp)
