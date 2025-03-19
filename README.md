@@ -37,7 +37,8 @@
 - **PDFactor**: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33943)
 - **Two by Two**: Learning Cross-Task Pairwise Objects Assembly for Generalizable Robot Manipulation
 - **FlowRAM**: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33579)
-
+- **G3Flow**: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation [Paper](https://arxiv.org/abs/2411.18369) [Page](https://tianxingchen.github.io/G3Flow/)
+- **DexHandDiff**: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation [Paper](https://arxiv.org/abs/2411.18562)
 ## Grasp
 - **UniGraspTransformer**: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping [Paper](https://arxiv.org/abs/2412.02699) [Page](https://dexhand.github.io/UniGraspTransformer/)
 - **DexGrasp Anything**: Towards Universal Robotic Dexterous Grasping with Physics Awareness [Paper](https://arxiv.org/abs/2503.08257)
