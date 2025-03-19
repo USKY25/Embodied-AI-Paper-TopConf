@@ -21,6 +21,7 @@
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
   - [Benchmark and Dataset](#benchmark-and-dataset)
 
+# CVPR2025
 
 ## Vision-Language-Action Models
 - A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [Paper](https://arxiv.org/abs/2503.06960) [Page](https://github.com/CVMI-Lab/SlotMIM)
@@ -71,3 +72,31 @@
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)[Paper](https://arxiv.org/abs/2409.02920) [Page](https://robotwin-benchmark.github.io/early-version/)
 - Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision [Paper](https://arxiv.org/abs/2411.18025)
 - **RoboSense**: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments [Paper](https://arxiv.org/abs/2408.15503)
+
+# ICLR2025
+
+## Vision-Language-Action Models
+- **VLAS**: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [Paper](https://arxiv.org/abs/2502.13508)
+
+## Policies
+
+
+## Grasp
+
+
+## Humanoid
+
+
+## 3D Vision
+
+
+## Planning and Reasoning
+
+## Video
+
+
+## Sim2real and Real2sim
+
+
+## Benchmark and Dataset
+
