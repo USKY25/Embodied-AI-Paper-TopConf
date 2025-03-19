@@ -16,8 +16,11 @@
 - **VLA-Explorer**: Unifying Vision, Language, and Action for Autonomous Agents [Paper](#) [Page](#)
 
 ## Policies
-- **KStar Diffuser**: Spatial-Temporal Graph Diffusion Policy with Kinematics Modeling for Bimanual Robotic Manipulation [Paper](https://arxiv.org/abs/2503.10743) [Page](#)
-- **Robust Policy Transfer**: Improving Cross-Domain Policy Generalization [Paper](#) [Page](#)
+- **KStar Diffuser**: Spatial-Temporal Graph Diffusion Policy with Kinematics Modeling for Bimanual Robotic Manipulation [Paper](https://arxiv.org/abs/2503.10743)
+- **RoboPEPP**: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training [Paper](https://arxiv.org/abs/2411.17662)
+- **OmniManip**: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [Paper](https://arxiv.org/abs/2501.03841)
+
+## Humanoid &amp; Legged Robot
 
 ## Planning
 - **PlanFormer**: Transformer-based Planning for Embodied Navigation [Paper](#) [Page](#)
