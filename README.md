@@ -4,11 +4,11 @@
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
   - [Vision-Language-Action Models](#vision-language-action-models)
-  - [Policies](#policy)
-  - [Planning](#planning)
-  - [3D Vision](#3dv)
-  - [Sim-to-real &amp; Real-to-sim](#r2s)
-  - [Benchmark &amp; Dataset](#dataset)
+  - [Policies](#policies)
+  - [Planning and Reasoning](#planning-and-reasoning)
+  - [3D Vision](#3d-vision)
+  - [Sim2real and Real2sim](#sim2real-and-real2sim)
+  - [Benchmark and Dataset](#benchmark-and-dataset)
 
 
 ## Vision-Language-Action Models
@@ -51,7 +51,7 @@
 [Page](#)
 - **VidBot**: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation[Paper](https://arxiv.org/abs/2503.07135) [Page](#)
 
-## Planning &amp; Reasoning
+## Planning and Reasoning
 - **RoboBrain**: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [Paper](https://arxiv.org/abs/2502.21257)
 - **PhysVLM**: Enabling Visual Language Models to Understand Robotic Physical Reachability [Paper](https://arxiv.org/abs/2503.08481)
 - **RoboSpatial**: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [Paper](https://arxiv.org/abs/2411.16537)
@@ -61,11 +61,11 @@
 ## Video
 - **Roger**: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation
 
-## Sim2real &amp; Real2sim
+## Sim2real and Real2sim
 - **Prof. Robot**: Differentiable Robot Rendering Without Static and Self-Collisions [Paper](https://arxiv.org/abs/2503.11269)
 - **AutoURDF**: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration[Paper](https://arxiv.org/abs/2412.05507) [Page](https://github.com/jl6017/AutoURDF)
 
-## Benchmark & Dataset
+## Benchmark and Dataset
 - **EmbodiedAI Benchmark**: A Comprehensive Dataset for Evaluating Embodied Agents [Paper](#) [Page](#)
 - **Multi-Modal Indoor Navigation Dataset**: Real-world Scenarios for Embodied AI [Paper](#) [Page](#)
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)[Paper](https://arxiv.org/abs/2409.02920) [Page](https://robotwin-benchmark.github.io/early-version/)
