@@ -14,12 +14,9 @@
 - [📖 ICLR2025](#iclr2025)
   - [Vision-Language-Action Models](#vision-language-action-models)
   - [Policies](#policies)
-  - [Grasp](#grasp)
-  - [Humanoid](#humanoid)
   - [Planning and Reasoning](#planning-and-reasoning)
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
-  - [Benchmark and Dataset](#benchmark-and-dataset)
 
 # CVPR2025
 
@@ -81,13 +78,18 @@
 - **Robots Pre-train Robots**: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [Paper](https://arxiv.org/abs/2410.22325) [Page](https://robots-pretrain-robots.github.io/)
 - **PIDM**:Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.15109)
 ## Policies
+- **ReViWo**: Learning View-invariant World Models for Visual Robotic Manipulation [zhihu](https://zhuanlan.zhihu.com/p/26181243574)
+- **HAMSTER**: Hierarchical Action Models For Open-World Robot Manipulation [Paper](https://arxiv.org/abs/2502.05485)
+- **BadRobot**: Jailbreaking Embodied LLMs in the Physical World [Paper](https://arxiv.org/abs/2407.20242)
+- **STRAP**: Robot Sub-Trajectory Retrieval for Augmented Policy Learning [Paper](https://arxiv.org/abs/2412.15182) [Project](https://weirdlabuw.github.io/strap/)
+  
 
 
-## Grasp
-
-
-## Humanoid
-
+## Policies
+- **SRSA**: Skill Retrieval and Adaptation for Robotic Assembly Tasks [Paper](https://arxiv.org/abs/2503.04538)
+- **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper] (https://arxiv.org/abs/2406.20095)
+- Data Scaling Laws in Imitation Learning for Robotic Manipulation [Paper] (https://arxiv.org/abs/2410.18647)
+- **Stem-OB**: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion [Paper] (https://arxiv.org/abs/2411.04919)
 
 ## 3D Vision
 - **Dream to Manipulate**: Compositional World Models Empowering Robot Imitation Learning with Imagination [Paper](https://arxiv.org/abs/2412.14957)[Page](https://leobarcellona.github.io/DreamToManipulate/)
@@ -98,11 +100,14 @@
 - **AHA**: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation [Paper](https://arxiv.org/abs/2410.00371) [Page](https://aha-vlm.github.io/)
 - **EMOS**: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents[Paper](https://arxiv.org/abs/2410.22662) [Page](https://arxiv.org/abs/2410.22662)
 - **VisualPredicator**: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning [Page](https://arxiv.org/abs/2410.23156)
-## Video
+- DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo [Paper](https://arxiv.org/abs/2412.05268)
+- 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [Paper](https://arxiv.org/abs/2503.10307)
 
+## Planning and Reasoning
+- Multi-Robot Motion Planning with Diffusion Models [Paper](https://arxiv.org/abs/2410.03072)
+
+## Video
+- **GEVRM**: Goal-Expressive Video Generation Model For Robust Visual Manipulation [Paper](https://arxiv.org/abs/2502.09268)
 
 ## Sim2real and Real2sim
-
-
-## Benchmark and Dataset
-
+- **ReGen**: Generative Robot Simulation via Inverse Design [Paper](https://openreview.net/forum?id=EbCUbPZjM1)
