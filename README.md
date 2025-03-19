@@ -77,7 +77,9 @@
 
 ## Vision-Language-Action Models
 - **VLAS**: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [Paper](https://arxiv.org/abs/2502.13508)
-
+- **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [Paper](https://arxiv.org/abs/2502.13508) [Page](https://tracevla.github.io/)
+- **Robots Pre-train Robots**: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [Paper](https://arxiv.org/abs/2410.22325) [Page](https://robots-pretrain-robots.github.io/)
+- **PIDM**:Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.15109)
 ## Policies
 
 
@@ -88,10 +90,14 @@
 
 
 ## 3D Vision
-
+- **Dream to Manipulate**: Compositional World Models Empowering Robot Imitation Learning with Imagination [Paper](https://arxiv.org/abs/2412.14957)[Page](https://leobarcellona.github.io/DreamToManipulate/)
 
 ## Planning and Reasoning
-
+- **LASeR**: Towards Diversified and Generalizable Robot Design with Large Language Models [Paper](https://openreview.net/forum?id=7mlvOHL6qJ)
+- Physics-informed Temporal Difference Metric Learning for Robot Motion Planning [Paper](https://openreview.net/forum?id=TOiageVNru)
+- **AHA**: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation [Paper](https://arxiv.org/abs/2410.00371) [Page](https://aha-vlm.github.io/)
+- **EMOS**: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents[Paper](https://arxiv.org/abs/2410.22662) [Page](https://arxiv.org/abs/2410.22662)
+- **VisualPredicator**: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning [Page](https://arxiv.org/abs/2410.23156)
 ## Video
 
 
