@@ -22,6 +22,9 @@
 # CVPR2025
 
 ## Vision-Language-Action Models
+- **MoManipVLA**: Transferring Vision-language-action Models for General Mobile Manipulation [Paper](https://arxiv.org/abs/2503.13446)
+- **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33233)
+- **SOLAMI**: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters [Paper](https://arxiv.org/abs/2412.00174)
 - A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning [Paper](https://arxiv.org/abs/2503.06960) [Page](https://github.com/CVMI-Lab/SlotMIM)
 - **Think Small, Act Big**: Primitive Prompt Learning for Lifelong Robot Manipulation
 - **Phoenix**: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction [Paper](https://cvpr.thecvf.com/virtual/2025/poster/32789)
@@ -40,6 +43,9 @@
 - **FlowRAM**: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33579)
 - **G3Flow**: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation [Paper](https://arxiv.org/abs/2411.18369) [Page](https://tianxingchen.github.io/G3Flow/)
 - **DexHandDiff**: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation [Paper](https://arxiv.org/abs/2411.18562)
+- **Tra-MoE**: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning [Paper](https://arxiv.org/abs/2411.14519)
+- **AffordDP**: Generalizable Diffusion Policy with Transferable Affordance[Paper](https://arxiv.org/abs/2412.03142)
+
 ## Grasp
 - **UniGraspTransformer**: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping [Paper](https://arxiv.org/abs/2412.02699) [Page](https://dexhand.github.io/UniGraspTransformer/)
 - **DexGrasp Anything**: Towards Universal Robotic Dexterous Grasping with Physics Awareness [Paper](https://arxiv.org/abs/2503.08257)
@@ -62,6 +68,7 @@
 
 ## Video
 - **Roger**: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation
+- **GraphMimic**: Graph-to-Graphs Generative Modeling from Videos for Policy Learning [abs](https://cvpr.thecvf.com/virtual/2025/poster/34942)
 
 ## Sim2real and Real2sim
 - **Prof. Robot**: Differentiable Robot Rendering Without Static and Self-Collisions [Paper](https://arxiv.org/abs/2503.11269)
@@ -79,15 +86,12 @@
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [Paper](https://arxiv.org/abs/2502.13508) [Page](https://tracevla.github.io/)
 - **Robots Pre-train Robots**: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [Paper](https://arxiv.org/abs/2410.22325) [Page](https://robots-pretrain-robots.github.io/)
 - **PIDM**:Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.15109)
+
 ## Policies
 - **ReViWo**: Learning View-invariant World Models for Visual Robotic Manipulation [zhihu](https://zhuanlan.zhihu.com/p/26181243574)
 - **HAMSTER**: Hierarchical Action Models For Open-World Robot Manipulation [Paper](https://arxiv.org/abs/2502.05485)
 - **BadRobot**: Jailbreaking Embodied LLMs in the Physical World [Paper](https://arxiv.org/abs/2407.20242)
 - **STRAP**: Robot Sub-Trajectory Retrieval for Augmented Policy Learning [Paper](https://arxiv.org/abs/2412.15182) [Project](https://weirdlabuw.github.io/strap/)
-  
-
-
-## Policies
 - **SRSA**: Skill Retrieval and Adaptation for Robotic Assembly Tasks [Paper](https://arxiv.org/abs/2503.04538)
 - **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper] (https://arxiv.org/abs/2406.20095)
 - Data Scaling Laws in Imitation Learning for Robotic Manipulation [Paper] (https://arxiv.org/abs/2410.18647)
