@@ -88,6 +88,7 @@
 - **PIDM**:Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.15109)
 
 ## Policies
+- **GravMAD**: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation [Paper](https://arxiv.org/abs/2409.20154)
 - **ReViWo**: Learning View-invariant World Models for Visual Robotic Manipulation [zhihu](https://zhuanlan.zhihu.com/p/26181243574)
 - **HAMSTER**: Hierarchical Action Models For Open-World Robot Manipulation [Paper](https://arxiv.org/abs/2502.05485)
 - **BadRobot**: Jailbreaking Embodied LLMs in the Physical World [Paper](https://arxiv.org/abs/2407.20242)
@@ -106,7 +107,7 @@
 - **AHA**: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation [Paper](https://arxiv.org/abs/2410.00371) [Page](https://aha-vlm.github.io/)
 - **EMOS**: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents[Paper](https://arxiv.org/abs/2410.22662) [Page](https://arxiv.org/abs/2410.22662)
 - **VisualPredicator**: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning [Page](https://arxiv.org/abs/2410.23156)
-- DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo [Paper](https://arxiv.org/abs/2412.05268)
+- **DenseMatcher**: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo [Paper](https://arxiv.org/abs/2412.05268)
 - 6D Object Pose Tracking in Internet Videos for Robotic Manipulation [Paper](https://arxiv.org/abs/2503.10307)
 
 ## Planning and Reasoning
