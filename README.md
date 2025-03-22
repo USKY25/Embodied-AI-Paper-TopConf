@@ -1,6 +1,8 @@
 # CVPR2025-ICLR2025-Embodied-AI-Paper-List
 🔥CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
 
+[03/22/2025] We plan to organize more papers on Embodied AI from top conferences in the future and build a more comprehensive paper list. If there are any conference papers you would like to browse or if you have any other suggestions, please feel free to leave an issue.
+
 ## 📖 Paper List
 - [📖 CVPR2025](#cvpr2025)
   - [Vision-Language-Action Models](#vision-language-action-models)
