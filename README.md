@@ -17,7 +17,7 @@
   - [Planning and Reasoning](#planning-and-reasoning)
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
-- [📖 ICRA2024](#icra2024)
+- [📖 ICRA2025](#icra2025)
   
 # CVPR2025
 
@@ -119,7 +119,7 @@
 ## Sim2real and Real2sim
 - **ReGen**: Generative Robot Simulation via Inverse Design [Paper](https://openreview.net/forum?id=EbCUbPZjM1)
   
-# ICRA2024
+# ICRA2025
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [Paper](https://arxiv.org/abs/2503.08007)
 - **QUART-Online**: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning [Paper](https://arxiv.org/abs/2412.15576)
 
