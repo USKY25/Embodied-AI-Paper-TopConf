@@ -84,6 +84,7 @@
 # ICLR2025
 
 ## Vision-Language-Action Models
+- **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper] (https://arxiv.org/abs/2406.20095)
 - **VLAS**: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [Paper](https://arxiv.org/abs/2502.13508)
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [Paper](https://arxiv.org/abs/2412.10345) [Page](https://tracevla.github.io/)
 - **Robots Pre-train Robots**: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [Paper](https://arxiv.org/abs/2410.22325) [Page](https://robots-pretrain-robots.github.io/)
@@ -96,7 +97,6 @@
 - **BadRobot**: Jailbreaking Embodied LLMs in the Physical World [Paper](https://arxiv.org/abs/2407.20242)
 - **STRAP**: Robot Sub-Trajectory Retrieval for Augmented Policy Learning [Paper](https://arxiv.org/abs/2412.15182) [Project](https://weirdlabuw.github.io/strap/)
 - **SRSA**: Skill Retrieval and Adaptation for Robotic Assembly Tasks [Paper](https://arxiv.org/abs/2503.04538)
-- **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper] (https://arxiv.org/abs/2406.20095)
 - Data Scaling Laws in Imitation Learning for Robotic Manipulation [Paper] (https://arxiv.org/abs/2410.18647)
 - **Stem-OB**: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion [Paper] (https://arxiv.org/abs/2411.04919)
 
