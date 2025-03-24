@@ -84,7 +84,7 @@
 # ICLR2025
 
 ## Vision-Language-Action Models
-- **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper] (https://arxiv.org/abs/2406.20095)
+- **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper](https://arxiv.org/abs/2406.20095)
 - **VLAS**: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [Paper](https://arxiv.org/abs/2502.13508)
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [Paper](https://arxiv.org/abs/2412.10345) [Page](https://tracevla.github.io/)
 - **Robots Pre-train Robots**: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [Paper](https://arxiv.org/abs/2410.22325) [Page](https://robots-pretrain-robots.github.io/)
