@@ -24,6 +24,7 @@
 # CVPR2025
 
 ## Vision-Language-Action Models
+
 - **MoManipVLA**: Transferring Vision-language-action Models for General Mobile Manipulation [Paper](https://arxiv.org/abs/2503.13446) [Page](https://gary3410.github.io/momanipVLA/)
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33233)
 - **SOLAMI**: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters [Paper](https://arxiv.org/abs/2412.00174) [Page](https://solami-ai.github.io/)
@@ -32,7 +33,7 @@
 - **Phoenix**: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction [Paper](https://cvpr.thecvf.com/virtual/2025/poster/32789)
 - **OmniManip**: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [Paper](https://arxiv.org/abs/2501.03841) [Page](https://omnimanip.github.io/)
 - Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation [Paper](https://arxiv.org/abs/2406.14235)
-- Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/34522)
+- Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [Abstract](https://cvpr.thecvf.com/virtual/2025/poster/34522)
 - Robotic Visual Instruction
 - **RoboGround**: Robot Manipulation with Grounded Vision-Language Priors
 
@@ -40,9 +41,9 @@
 - **KStar Diffuser**: Spatial-Temporal Graph Diffusion Policy with Kinematics Modeling for Bimanual Robotic Manipulation [Paper](https://arxiv.org/abs/2503.10743)
 - **RoboPEPP**: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training [Paper](https://arxiv.org/abs/2411.17662)
 - **Lift3D Policy**: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation [Paper](https://arxiv.org/abs/2411.18623) [Page](https://lift3d-web.github.io/)
-- **PDFactor**: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33943)
+- **PDFactor**: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation [Abstract](https://cvpr.thecvf.com/virtual/2025/poster/33943)
 - **Two by Two**: Learning Cross-Task Pairwise Objects Assembly for Generalizable Robot Manipulation
-- **FlowRAM**: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33579)
+- **FlowRAM**: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation [Abstract](https://cvpr.thecvf.com/virtual/2025/poster/33579)
 - **G3Flow**: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation [Paper](https://arxiv.org/abs/2411.18369) [Page](https://tianxingchen.github.io/G3Flow/)
 - **DexHandDiff**: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation [Paper](https://arxiv.org/abs/2411.18562) [Page](https://dexdiffuser.github.io/)
 - **Tra-MoE**: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning [Paper](https://arxiv.org/abs/2411.14519)
@@ -65,12 +66,14 @@
 - **RoboBrain**: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [Paper](https://arxiv.org/abs/2502.21257)
 - **PhysVLM**: Enabling Visual Language Models to Understand Robotic Physical Reachability [Paper](https://arxiv.org/abs/2503.08481)
 - **RoboSpatial**: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [Paper](https://arxiv.org/abs/2411.16537)
-- **Tartan IMU**: A Light Foundation Model for Inertial Positioning in Robotics [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33873)
+- **Tartan IMU**: A Light Foundation Model for Inertial Positioning in Robotics [Abstract](https://cvpr.thecvf.com/virtual/2025/poster/33873)
 - **Code-as-Monitor**: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection [Paper](https://arxiv.org/abs/2412.04455) [Page](https://zhoues.github.io/Code-as-Monitor/)
 
 ## Video
+
 - **TASTE-Rob**: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation [Paper](https://arxiv.org/abs/2503.11423)
 - **GraphMimic**: Graph-to-Graphs Generative Modeling from Videos for Policy Learning [Paper](https://cvpr.thecvf.com/virtual/2025/poster/34942)
+
 
 ## Sim2real and Real2sim
 - **Prof. Robot**: Differentiable Robot Rendering Without Static and Self-Collisions [Paper](https://arxiv.org/abs/2503.11269) [Page](https://www.qrcat.cn/prof-robot/)
@@ -84,6 +87,7 @@
 # ICLR2025
 
 ## Vision-Language-Action Models
+
 - **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [Paper](https://arxiv.org/abs/2406.20095) [Page](https://github.com/LostXine/LLaRA)
 - **VLAS**: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [Paper](https://arxiv.org/abs/2502.13508) [Page](https://github.com/whichwhichgone/VLAS)
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [Paper](https://arxiv.org/abs/2412.10345) [Page](https://tracevla.github.io/)
@@ -91,6 +95,7 @@
 - **PIDM**:Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.15109) [Page](https://nimolty.github.io/Seer/)
 
 ## Policies
+
 - **GravMAD**: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation [Paper](https://arxiv.org/abs/2409.20154) [Page](https://gravmad.github.io/)
 - **ReViWo**: Learning View-invariant World Models for Visual Robotic Manipulation [Paper](https://openreview.net/forum?id=vJwjWyt4Ed) [zhihu](https://zhuanlan.zhihu.com/p/26181243574)
 - **HAMSTER**: Hierarchical Action Models For Open-World Robot Manipulation [Paper](https://arxiv.org/abs/2502.05485) [Page](https://hamster-robot.github.io/)
