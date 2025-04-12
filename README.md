@@ -1,9 +1,12 @@
-# CVPR2025-ICLR2025-Embodied-AI-Paper-List
-🔥CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
+# RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List
+🔥RSS2025 &amp; CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
 
 [03/22/2025] We plan to organize more papers on Embodied AI from top conferences in the future and build a more comprehensive paper list. If there are any conference papers you would like to browse or if you have any other suggestions, please feel free to leave an issue.
+[04/12/2025] We are updating Embodied AI papers accepted by RSS2025 (Robotics Top Conference)!
+
 
 ## 📖 Paper List
+- [📖 RSS2025](#rss2025)
 - [📖 CVPR2025](#cvpr2025)
   - [Vision-Language-Action Models](#vision-language-action-models)
   - [Policies](#policies)
@@ -20,6 +23,9 @@
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
 - [📖 ICRA2025](#icra2025)
+
+# RSS2025
+- **CordViP**: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [Paper](https://arxiv.org/pdf/2502.08449) [Page](https://aureleopku.github.io/CordViP/)
   
 # CVPR2025
 
