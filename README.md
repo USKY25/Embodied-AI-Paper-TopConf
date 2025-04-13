@@ -43,6 +43,7 @@
 
 ## Vision-Language-Action Models
 
+- **UniAct**: Universal Actions For Enhanced Embodied Foundation Models [Paper](https://arxiv.org/abs/2501.10105) [Page](https://2toinf.github.io/UniAct/)
 - **MoManipVLA**: Transferring Vision-language-action Models for General Mobile Manipulation [Paper](https://arxiv.org/abs/2503.13446) [Page](https://gary3410.github.io/momanipVLA/)
 - **CoT-VLA**: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [Paper](https://cvpr.thecvf.com/virtual/2025/poster/33233)
 - **SOLAMI**: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters [Paper](https://arxiv.org/abs/2412.00174) [Page](https://solami-ai.github.io/)
