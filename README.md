@@ -25,8 +25,15 @@
 - [📖 ICRA2025](#icra2025)
 
 # RSS2025
+
 - **CordViP**: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [Paper](https://arxiv.org/pdf/2502.08449) [Page](https://aureleopku.github.io/CordViP/)
+- **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [Paper](https://arxiv.org/pdf/2503.02881) [Page](https://reactive-diffusion-policy.github.io/)
 - **SpatialVLA**: Exploring Spatial Representations for Visual-Language-Action Model [Paper](https://arxiv.org/abs/2501.15830)
+- **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [Paper](https://arxiv.org/abs/2502.01143) [Page](https://agile.human2humanoid.com/)
+- **Flying Hand**: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning [Paper](https://lecar-lab.github.io/flying_hand/static/pdf/flying_hand.pdf) [Page](https://lecar-lab.github.io/flying_hand/)
+- **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [Paper](https://arxiv.org/abs/2502.16932) [Page](https://demo-generation.github.io/)
+- **DOGlove**: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove [Paper](https://arxiv.org/pdf/2502.07730) [Page](https://do-glove.github.io/)
+
   
 # CVPR2025
 
