@@ -26,6 +26,7 @@
 
 # RSS2025
 - **CordViP**: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [Paper](https://arxiv.org/pdf/2502.08449) [Page](https://aureleopku.github.io/CordViP/)
+- **SpatialVLA**: Exploring Spatial Representations for Visual-Language-Action Model [Paper](https://arxiv.org/abs/2501.15830)
   
 # CVPR2025
 
@@ -135,4 +136,5 @@
 # ICRA2025
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [Paper](https://arxiv.org/abs/2503.08007)
 - **QUART-Online**: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning [Paper](https://arxiv.org/abs/2412.15576) [Page](https://quart-online.github.io/)
+- **SpatialBot**: Precise Spatial Understanding with Vision Language Models [Paper](https://arxiv.org/pdf/2406.13642) [Page](https://github.com/BAAI-DCAI/SpatialBot)
 
