@@ -80,6 +80,7 @@
 ## 3D Vision
 - **3D-MVP**: 3D Multiview Pretraining for Robotic Manipulation [Paper](https://arxiv.org/abs/2406.18158) [Page](https://jasonqsy.github.io/3DMVP/)
 - **VidBot**: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation[Paper](https://arxiv.org/abs/2503.07135) [Page](https://hanzhic.github.io/vidbot-project/)
+- **Touch2Shape**: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction [Abs](https://cvpr.thecvf.com/virtual/2025/poster/33415)
 
 ## Planning and Reasoning
 - **RoboBrain**: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [Paper](https://arxiv.org/abs/2502.21257)
