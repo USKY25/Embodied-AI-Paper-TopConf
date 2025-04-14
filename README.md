@@ -67,6 +67,7 @@
 - **DexHandDiff**: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation [Paper](https://arxiv.org/abs/2411.18562) [Page](https://dexdiffuser.github.io/)
 - **Tra-MoE**: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning [Paper](https://arxiv.org/abs/2411.14519)
 - **AffordDP**: Generalizable Diffusion Policy with Transferable Affordance[Paper](https://arxiv.org/abs/2412.03142) [Page](https://afforddp.github.io/)
+- **Tra-MoE**: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning [Paper](https://arxiv.org/abs/2411.14519) [Page](https://github.com/MCG-NJU/Tra-MoE)
 
 ## Grasp
 - **UniGraspTransformer**: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping [Paper](https://arxiv.org/abs/2412.02699) [Page](https://dexhand.github.io/UniGraspTransformer/)
@@ -112,7 +113,7 @@
 - **VLAS**: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation [Paper](https://arxiv.org/abs/2502.13508) [Page](https://github.com/whichwhichgone/VLAS)
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [Paper](https://arxiv.org/abs/2412.10345) [Page](https://tracevla.github.io/)
 - **Robots Pre-train Robots**: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [Paper](https://arxiv.org/abs/2410.22325) [Page](https://robots-pretrain-robots.github.io/)
-- **PIDM**:Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.15109) [Page](https://nimolty.github.io/Seer/)
+- **PIDM**: Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.15109) [Page](https://nimolty.github.io/Seer/)
 
 ## Policies
 
@@ -127,6 +128,7 @@
 
 ## 3D Vision
 - **Dream to Manipulate**: Compositional World Models Empowering Robot Imitation Learning with Imagination [Paper](https://arxiv.org/abs/2412.14957) [Page](https://leobarcellona.github.io/DreamToManipulate/)
+- **SPA***: 3D Spatial-Awareness Enables Effective Embodied Representation [Paper](https://arxiv.org/abs/2410.08208) [Page](https://haoyizhu.github.io/spa/)
 
 ## Planning and Reasoning
 - **LASeR**: Towards Diversified and Generalizable Robot Design with Large Language Models [Paper](https://openreview.net/forum?id=7mlvOHL6qJ) [Page](https://github.com/WoodySJR/LASeR)
