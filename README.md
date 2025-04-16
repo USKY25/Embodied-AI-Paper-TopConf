@@ -33,6 +33,7 @@
 - Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training [Paper](https://arxiv.org/abs/2502.03822)
 - **SpatialVLA**: Exploring Spatial Representations for Visual-Language-Action Model [Paper](https://arxiv.org/abs/2501.15830)
 - **Sketch-to-Skill**: Bootstrapping Robot Learning with Human Drawn Trajectory Sketches [Paper](https://arxiv.org/abs/2503.11918)
+- **NaVILA**: Legged Robot Vision-Language-Action Model for Navigation [Paper](https://arxiv.org/abs/2412.04453) [Page](https://navila-bot.github.io/)
 - **ConRFT**: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [Paper](https://arxiv.org/abs/2502.05450) [Page](https://cccedric.github.io/conrft/)
 - **You Only Teach Once**: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [Paper](https://arxiv.org/abs/2501.14208) [Page](https://hnuzhy.github.io/projects/YOTO/)
 - **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [Paper](https://arxiv.org/abs/2502.01143) [Page](https://agile.human2humanoid.com/)
