@@ -40,6 +40,8 @@
 - **Flying Hand**: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning [Paper](https://lecar-lab.github.io/flying_hand/static/pdf/flying_hand.pdf) [Page](https://lecar-lab.github.io/flying_hand/)
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [Paper](https://arxiv.org/abs/2502.16932) [Page](https://demo-generation.github.io/)
 - **DOGlove**: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove [Paper](https://arxiv.org/pdf/2502.07730) [Page](https://do-glove.github.io/)
+- **RoboSplat**: Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation [Paper](https://arxiv.org/abs/2504.13175) [Page](https://yangsizhe.github.io/robosplat/)
+- Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models [Paper](https://arxiv.org/abs/2504.11514)
 
   
 # CVPR2025
