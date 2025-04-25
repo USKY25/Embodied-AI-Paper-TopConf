@@ -42,6 +42,7 @@
 - **DOGlove**: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove [Paper](https://arxiv.org/pdf/2502.07730) [Page](https://do-glove.github.io/)
 - **RoboSplat**: Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation [Paper](https://arxiv.org/abs/2504.13175) [Page](https://yangsizhe.github.io/robosplat/)
 - Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models [Paper](https://arxiv.org/abs/2504.11514)
+- **SATA**: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning [Paper](https://arxiv.org/abs/2502.12674)
 
   
 # CVPR2025
