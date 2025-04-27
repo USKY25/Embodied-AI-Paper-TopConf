@@ -43,6 +43,7 @@
 - **RoboSplat**: Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation [Paper](https://arxiv.org/abs/2504.13175) [Page](https://yangsizhe.github.io/robosplat/)
 - Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models [Paper](https://arxiv.org/abs/2504.11514)
 - **SATA**: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning [Paper](https://arxiv.org/abs/2502.12674) [Video](https://youtu.be/b1cpTq0Rc5w?si=sAd9y5LE2sWynu7v)
+- **FACTR**: Force-Attending Curriculum Training for Contact-Rich Policy Learning [Paper](https://arxiv.org/abs/2502.17432) [Page](https://jasonjzliu.com/factr/)
 
   
 # CVPR2025
