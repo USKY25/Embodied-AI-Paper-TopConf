@@ -45,6 +45,7 @@
 - **SATA**: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning [Paper](https://arxiv.org/abs/2502.12674) [Video](https://youtu.be/b1cpTq0Rc5w?si=sAd9y5LE2sWynu7v)
 - **FACTR**: Force-Attending Curriculum Training for Contact-Rich Policy Learning [Paper](https://arxiv.org/abs/2502.17432) [Page](https://jasonjzliu.com/factr/)
 - **RoboVerse**: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [Paper](https://arxiv.org/abs/2504.18904) [Page](https://roboverseorg.github.io/)
+- **STDArm**: Transferring Visuomotor Policies From Static Data Training to Dynamic Robot Manipulation [Paper](https://arxiv.org/abs/2504.18792)
 
   
 # CVPR2025
