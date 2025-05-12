@@ -5,6 +5,8 @@
 
 [04/12/2025] We are updating Embodied AI papers accepted by RSS2025 (Robotics Top Conference)!
 
+[05/12/2025] We will update Embodied AI papers accepted by ICML2025 as soon as possible!
+
 
 ## 📖 Paper List
 - [📖 RSS2025](#rss2025)
