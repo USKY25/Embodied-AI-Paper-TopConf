@@ -5,7 +5,7 @@
 
 [04/12/2025] We are updating Embodied AI papers accepted by RSS2025 (Robotics Top Conference)!
 
-[05/12/2025] We will update Embodied AI papers accepted by ICML2025 as soon as possible!
+[05/21/2025] We are updating Embodied AI papers accepted by ICML2025 !
 
 
 ## 📖 Paper List
@@ -163,4 +163,7 @@
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [Paper](https://arxiv.org/abs/2503.08007)
 - **QUART-Online**: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning [Paper](https://arxiv.org/abs/2412.15576) [Page](https://quart-online.github.io/)
 - **SpatialBot**: Precise Spatial Understanding with Vision Language Models [Paper](https://arxiv.org/pdf/2406.13642) [Page](https://github.com/BAAI-DCAI/SpatialBot)
+
+# ICML2025
+- **Hi Robot**: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/pdf/2502.19417)
 
