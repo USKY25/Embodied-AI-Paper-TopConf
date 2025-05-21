@@ -167,6 +167,6 @@
 
 # ICML2025
 - **Hi Robot**: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/abs/2502.19417)
--**SMD** Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models[Paper](https://arxiv.org/abs/2502.03607)
--**ELEMENTAL**:Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
--**ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning[paper](https://arxiv.org/abs/2505.07395)
+- **SMD** Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models[Paper](https://arxiv.org/abs/2502.03607)
+- **ELEMENTAL**:Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
+- **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning[paper](https://arxiv.org/abs/2505.07395)
