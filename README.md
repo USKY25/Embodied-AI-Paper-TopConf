@@ -1,4 +1,4 @@
-# RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List
+# RSS2025-CVPR2025-ICLR2025-ICML2025-Embodied-AI-Paper-List
 🔥RSS2025 &amp; CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
 
 [03/22/2025] We plan to organize more papers on Embodied AI from top conferences in the future and build a more comprehensive paper list. If there are any conference papers you would like to browse or if you have any other suggestions, please feel free to leave an issue.
@@ -26,6 +26,7 @@
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
 - [📖 ICRA2025](#icra2025)
+- [📖 ICML2025](#icml2025)
 
 # RSS2025
 
@@ -165,5 +166,7 @@
 - **SpatialBot**: Precise Spatial Understanding with Vision Language Models [Paper](https://arxiv.org/pdf/2406.13642) [Page](https://github.com/BAAI-DCAI/SpatialBot)
 
 # ICML2025
-- **Hi Robot**: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/pdf/2502.19417)
-
+- **Hi Robot**: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/abs/2502.19417)
+-**SMD** Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models[Paper](https://arxiv.org/abs/2502.03607)
+-**ELEMENTAL**:Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
+-**ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning[paper](https://arxiv.org/abs/2505.07395)
