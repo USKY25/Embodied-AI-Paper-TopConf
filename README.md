@@ -167,9 +167,12 @@
 
 # ICML2025
 - **Hi Robot**:Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/abs/2502.19417)
+- **OTTER**: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction [paper](https://arxiv.org/pdf/2503.03734) [page](https://ottervla.github.io/)
 - **SMD** Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models [Paper](https://arxiv.org/abs/2502.03607)
+- Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling [paper](https://arxiv.org/pdf/2410.01440) [page](https://github.com/Singularity0104/equilibrium-planner.)
 - **ELEMENTAL**:Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
 - **ReinboT**:Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [paper](https://arxiv.org/abs/2505.07395)
 - **SAM2Act**:Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [paper](https://arxiv.org/abs/2501.18564)
 - Efficient Robotic Policy Learning via Latent Space Backward Planning [paper](https://arxiv.org/abs/2505.06861) [page](https://lbp-authors.github.io/)
 - **A Large Recurrent Action Model:** xLSTM enables Fast Inference for Robotics Tasks [paper](https://arxiv.org/abs/2410.22391) [page](https://github.com/ml-jku/LRAM)
+- 
