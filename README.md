@@ -190,13 +190,13 @@
 - **SAM2Act**:Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [paper](https://arxiv.org/abs/2501.18564)
 - Pre-training Auto-regressive Robotic Models with 4D Representations [paper](https://arxiv.org/pdf/2502.13142) [page](https://arm4r.github.io/)
 - Flow-based Domain Randomization for Learning and Sequencing Robotic Skills [paper](https://arxiv.org/pdf/2502.01800)
--**EmbodiedBench**: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents [paper](https://arxiv.org/abs/2502.09560) [page](https://embodiedbench.github.io/)
--Learning Policy Committees for Effective Personalization in MDPs with Diverse Tasks [paper](https://arxiv.org/abs/2503.01885)
--Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations [paper](https://arxiv.org/abs/2412.14803) [page](https://video-prediction-policy.github.io/)
+- **EmbodiedBench**: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents [paper](https://arxiv.org/abs/2502.09560) [page](https://embodiedbench.github.io/)
+- Learning Policy Committees for Effective Personalization in MDPs with Diverse Tasks [paper](https://arxiv.org/abs/2503.01885)
+- Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations [paper](https://arxiv.org/abs/2412.14803) [page](https://video-prediction-policy.github.io/)
 
 ## 3D Vision
--Unifying 2D and 3D Vision-Language Understanding [paper](https://arxiv.org/abs/2503.10745) [page](https://univlg.github.io/)
--GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model [paper](https://arxiv.org/abs/2505.04119) [page](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt)
+- Unifying 2D and 3D Vision-Language Understanding [paper](https://arxiv.org/abs/2503.10745) [page](https://univlg.github.io/)
+- GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model [paper](https://arxiv.org/abs/2505.04119) [page](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt)
 
 ## Dataset
 - WOMD-Reasoning: A Large-Scale Dataset for Interaction Reasoning in Driving [paper](https://arxiv.org/abs/2407.04281) [page](https://github.com/yhli123/WOMD-Reasoning)
