@@ -1,5 +1,5 @@
-# RSS2025-CVPR2025-ICLR2025-ICML2025-Embodied-AI-Paper-List
-🔥RSS2025 &amp; CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
+# ICML2025-RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List
+🔥ICML2025 &amp; RSS2025 &amp; CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
 
 [03/22/2025] We plan to organize more papers on Embodied AI from top conferences in the future and build a more comprehensive paper list. If there are any conference papers you would like to browse or if you have any other suggestions, please feel free to leave an issue.
 
@@ -9,6 +9,12 @@
 
 
 ## 📖 Paper List
+- [📖 ICML2025](#icml2025)
+  - [Vision-Language-Action Models](#vision-language-action-models)
+  - [Planning and Reasoning](#planning-and-reasoning)
+  - [Policies](#policies)
+  - [3D Vision](#3d-vision)
+  - [Dataset](#dataset)
 - [📖 RSS2025](#rss2025)
 - [📖 CVPR2025](#cvpr2025)
   - [Vision-Language-Action Models](#vision-language-action-models)
@@ -26,12 +32,38 @@
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
 - [📖 ICRA2025](#icra2025)
-- [📖 ICML2025](#icml2025)
-  - [Vision-Language-Action Models](#vision-language-action-models)
-  - [Planning and Reasoning](#planning-and-reasoning)
-  - [Policies](#policies)
-  - [3D Vision](#3d-vision)
-  - [Dataset](#dataset)
+
+
+# ICML2025
+
+## Vision-Language-Action Models
+- **Hi Robot**:Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/abs/2502.19417)
+- **OTTER**: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction [paper](https://arxiv.org/pdf/2503.03734) [page](https://ottervla.github.io/)
+- **UP-VLA**: A Unified Understanding and Prediction Model for Embodied Agent [paper](https://arxiv.org/abs/2501.18867)
+- **ELEMENTAL**:Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
+- **ReinboT**:Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [paper](https://arxiv.org/abs/2505.07395)
+- **A Large Recurrent Action Model:** xLSTM enables Fast Inference for Robotics Tasks [paper](https://arxiv.org/abs/2410.22391) [page](https://github.com/ml-jku/LRAM)
+
+## Planning and Reasoning
+- **SMD** Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models [Paper](https://arxiv.org/abs/2502.03607)
+- Efficient Robotic Policy Learning via Latent Space Backward Planning [paper](https://arxiv.org/abs/2505.06861) [page](https://lbp-authors.github.io/)
+- Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling [paper](https://arxiv.org/pdf/2410.01440) [page](https://github.com/Singularity0104/equilibrium-planner)
+
+## Policies
+
+- **SAM2Act**:Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [paper](https://arxiv.org/abs/2501.18564)
+- Pre-training Auto-regressive Robotic Models with 4D Representations [paper](https://arxiv.org/pdf/2502.13142) [page](https://arm4r.github.io/)
+- Flow-based Domain Randomization for Learning and Sequencing Robotic Skills [paper](https://arxiv.org/pdf/2502.01800)
+- **EmbodiedBench**: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents [paper](https://arxiv.org/abs/2502.09560) [page](https://embodiedbench.github.io/)
+- Learning Policy Committees for Effective Personalization in MDPs with Diverse Tasks [paper](https://arxiv.org/abs/2503.01885)
+- Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations [paper](https://arxiv.org/abs/2412.14803) [page](https://video-prediction-policy.github.io/)
+
+## 3D Vision
+- Unifying 2D and 3D Vision-Language Understanding [paper](https://arxiv.org/abs/2503.10745) [page](https://univlg.github.io/)
+- GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model [paper](https://arxiv.org/abs/2505.04119) [page](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt)
+
+## Dataset
+- WOMD-Reasoning: A Large-Scale Dataset for Interaction Reasoning in Driving [paper](https://arxiv.org/abs/2407.04281) [page](https://github.com/yhli123/WOMD-Reasoning)
 
 # RSS2025
 
@@ -170,33 +202,4 @@
 - **QUART-Online**: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning [Paper](https://arxiv.org/abs/2412.15576) [Page](https://quart-online.github.io/)
 - **SpatialBot**: Precise Spatial Understanding with Vision Language Models [Paper](https://arxiv.org/pdf/2406.13642) [Page](https://github.com/BAAI-DCAI/SpatialBot)
 
-# ICML2025
 
-## Vision-Language-Action Models
-- **Hi Robot**:Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/abs/2502.19417)
-- **OTTER**: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction [paper](https://arxiv.org/pdf/2503.03734) [page](https://ottervla.github.io/)
-- **UP-VLA**: A Unified Understanding and Prediction Model for Embodied Agent [paper](https://arxiv.org/abs/2501.18867)
-- **ELEMENTAL**:Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
-- **ReinboT**:Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [paper](https://arxiv.org/abs/2505.07395)
-- **A Large Recurrent Action Model:** xLSTM enables Fast Inference for Robotics Tasks [paper](https://arxiv.org/abs/2410.22391) [page](https://github.com/ml-jku/LRAM)
-
-## Planning and Reasoning
-- **SMD** Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models [Paper](https://arxiv.org/abs/2502.03607)
-- Efficient Robotic Policy Learning via Latent Space Backward Planning [paper](https://arxiv.org/abs/2505.06861) [page](https://lbp-authors.github.io/)
-- Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling [paper](https://arxiv.org/pdf/2410.01440) [page](https://github.com/Singularity0104/equilibrium-planner)
-
-## Policies
-
-- **SAM2Act**:Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [paper](https://arxiv.org/abs/2501.18564)
-- Pre-training Auto-regressive Robotic Models with 4D Representations [paper](https://arxiv.org/pdf/2502.13142) [page](https://arm4r.github.io/)
-- Flow-based Domain Randomization for Learning and Sequencing Robotic Skills [paper](https://arxiv.org/pdf/2502.01800)
-- **EmbodiedBench**: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents [paper](https://arxiv.org/abs/2502.09560) [page](https://embodiedbench.github.io/)
-- Learning Policy Committees for Effective Personalization in MDPs with Diverse Tasks [paper](https://arxiv.org/abs/2503.01885)
-- Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations [paper](https://arxiv.org/abs/2412.14803) [page](https://video-prediction-policy.github.io/)
-
-## 3D Vision
-- Unifying 2D and 3D Vision-Language Understanding [paper](https://arxiv.org/abs/2503.10745) [page](https://univlg.github.io/)
-- GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model [paper](https://arxiv.org/abs/2505.04119) [page](https://github.com/zhoujiahuan1991/ICML2025-GAPrompt)
-
-## Dataset
-- WOMD-Reasoning: A Large-Scale Dataset for Interaction Reasoning in Driving [paper](https://arxiv.org/abs/2407.04281) [page](https://github.com/yhli123/WOMD-Reasoning)
