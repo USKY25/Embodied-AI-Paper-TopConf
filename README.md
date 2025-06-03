@@ -1,11 +1,11 @@
-# ICML2025-RSS2025-CVPR2025-ICLR2025-Embodied-AI-Paper-List
+# Embodied-AI-Paper-TopConf
 🔥ICML2025 &amp; RSS2025 &amp; CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
 
 [03/22/2025] We plan to organize more papers on Embodied AI from top conferences in the future and build a more comprehensive paper list. If there are any conference papers you would like to browse or if you have any other suggestions, please feel free to leave an issue.
 
 [04/12/2025] We are updating Embodied AI papers accepted by RSS2025 (Robotics Top Conference)!
 
-[05/21/2025] We are updating Embodied AI papers accepted by ICML2025 !
+[05/21/2025] We are updating Embodied AI papers accepted by ICML2025!
 
 
 ## 📖 Paper List
