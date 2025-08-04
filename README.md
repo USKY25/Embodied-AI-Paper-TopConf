@@ -37,11 +37,11 @@
 # ICML2025
 
 ## Vision-Language-Action Models
-- **Hi Robot**:Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/abs/2502.19417)
+- **Hi Robot**: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [Paper](https://arxiv.org/abs/2502.19417)
 - **OTTER**: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction [paper](https://arxiv.org/pdf/2503.03734) [page](https://ottervla.github.io/)
 - **UP-VLA**: A Unified Understanding and Prediction Model for Embodied Agent [paper](https://arxiv.org/abs/2501.18867)
-- **ELEMENTAL**:Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
-- **ReinboT**:Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [paper](https://arxiv.org/abs/2505.07395)
+- **ELEMENTAL**: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics [paper](https://arxiv.org/abs/2411.18825)
+- **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [paper](https://arxiv.org/abs/2505.07395)
 - **A Large Recurrent Action Model:** xLSTM enables Fast Inference for Robotics Tasks [paper](https://arxiv.org/abs/2410.22391) [page](https://github.com/ml-jku/LRAM)
 
 ## Planning and Reasoning
