@@ -1,5 +1,5 @@
 # Embodied-AI-Paper-TopConf
-🔥ICML2025 &amp; RSS2025 &amp; CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
+🔥ICCV2025 &amp; ICML2025 &amp; RSS2025 &amp; CVPR2025 &amp; ICLR2025 Embodied AI Paper List  Resources.
 
 [03/22/2025] We plan to organize more papers on Embodied AI from top conferences in the future and build a more comprehensive paper list. If there are any conference papers you would like to browse or if you have any other suggestions, please feel free to leave an issue.
 
@@ -7,8 +7,19 @@
 
 [05/21/2025] We are updating Embodied AI papers accepted by ICML2025!
 
+[08/05/2025] We are updating Embodied AI papers accepted by ICCV2025!
+
 
 ## 📖 Paper List
+- [📖 ICCV2025](#iccv2025)
+  - [Vision-Language-Action Model](#vision-language-action-model)
+  - [Vision-Language-Navigation Model](#vision-language-navigation-model)
+  - [Hierarchical Planning](#hierarchical-planning)
+  - [World Model](#world-model)
+  - [Policy](#policy)
+  - [Accelerating and Deploying](#accelerating-and-deploying)
+  - [Perception](#perception)
+  - [Benchmark and Dataset](#benchmark-and-dataset)
 - [📖 ICML2025](#icml2025)
   - [Vision-Language-Action Models](#vision-language-action-models)
   - [Planning and Reasoning](#planning-and-reasoning)
@@ -34,6 +45,78 @@
 - [📖 ICRA2025](#icra2025)
 
 
+# ICCV2025
+
+## Vision-Language-Action Model
+- Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics [Paper](https://arxiv.org/abs/2411.13587) [page](https://vlaattacker.github.io/)
+- **VQ-VLA**: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers [Paper](https://arxiv.org/abs/2507.01016) [page](https://xiaoxiao0406.github.io/vqvla.github.io)
+- **Dita**: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy [Paper](https://arxiv.org/abs/2503.19757) [page](https://robodita.github.io/)
+- **Moto**: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos [Paper](https://arxiv.org/abs/2412.04445) [page](https://chenyi99.github.io/moto/)
+- **A0**: An Affordance-Aware Hierarchical Model for General Robotic Manipulation [Paper](https://arxiv.org/abs/2504.12636) [page](https://a-embodied.github.io/A0/)
+- **Embodied VideoAgent**: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding [Paper](https://arxiv.org/abs/2501.00358) [page](https://embodied-videoagent.github.io/)
+- **CoA-VLA**: Improving Vision-Language-Action Models via Visual-Text Chain-of-Affordance [Paper](https://iccv.thecvf.com/virtual/2025/poster/542)
+- **FedVLA**: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation [Paper](https://iccv.thecvf.com/virtual/2025/poster/1325)
+- Towards Long-Horizon Vision-Language-Action System: Reasoning, Acting and Memory [Paper](https://iccv.thecvf.com/virtual/2025/poster/1915)
+- **PASG**: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation [Paper](https://iccv.thecvf.com/virtual/2025/poster/225)
+- **SD2Actor**: Continuous State Decomposition via Diffusion Embeddings for Robotic Manipulation [Paper](https://iccv.thecvf.com/virtual/2025/poster/1571)
+
+## Vision-Language-Navigation Model
+- **Move to Understand a 3D Scene**: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation [Paper](https://arxiv.org/abs/2507.04047) [page](https://mtu3d.github.io/)
+- Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities [Paper](https://arxiv.org/abs/2507.13019) [page](https://crystalsixone.github.io/vln_pe.github.io/)
+- **P3Nav**: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction [Paper](https://arxiv.org/abs/2503.18525)
+- **SAME**: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts [Paper](https://arxiv.org/abs/2412.05552) [page](https://github.com/GengzeZhou/SAME)
+- **NavMorph**: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments  [Paper](https://arxiv.org/abs/2506.23468) [page](https://github.com/Feliciaxyao/NavMorph)
+- Harnessing Input-adaptive Inference for Efficient VLN [Paper](https://openreview.net/pdf?id=5gptKWnVPF)
+- Embodied Navigation with Auxiliary Task of Action Description Prediction [Paper](https://iccv.thecvf.com/virtual/2025/poster/1984)
+- 3D Gaussian Map with Open-Set Semantic Grouping for Vision-Language Navigation [Paper](https://iccv.thecvf.com/virtual/2025/poster/299)
+- **NavQ**: Learning a Q-Model for Foresighted Vision-and-Language Navigation [Paper](https://iccv.thecvf.com/virtual/2025/poster/944)
+- **monoVLN**: Bridging the Observation Gap between Monocular and Panoramic Vision and Language Navigation [Paper](https://iccv.thecvf.com/virtual/2025/poster/1792)
+
+## Hierarchical Planning
+- Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding [Paper](https://arxiv.org/abs/2507.18276)
+- **CogNav**: Cognitive Process Modeling for Object Goal Navigation with LLMs [Paper](https://arxiv.org/abs/2412.10439) [page](https://yhancao.github.io/CogNav/)
+- **RoBridge**: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [Paper](https://arxiv.org/abs/2505.01709) [page](https://abliao.github.io/RoBridge/)
+
+## World Model
+- **IRASim**: A Fine-Grained World Model for Robot Manipulation [Paper](https://arxiv.org/abs/2406.14540) [page](https://gen-irasim.github.io/)
+- **GWM**: Towards Scalable Gaussian World Models for Robotic Manipulation [Paper](https://ziweiwangthu.github.io/data/GWM.pdf) [page](https://gaussian-world-model.github.io/)
+- **DyWA**: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [Paper](https://arxiv.org/abs/2503.16806) [page](https://pku-epic.github.io/DyWA/)
+- Diffusion-Based Imaginative Coordination for Bimanual Manipulation [Paper](https://arxiv.org/abs/2507.11296)
+- Learning 4D Embodied World Models [Paper](https://openreview.net/pdf?id=mnwlhvmKMN)
+
+## Policy
+- Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework [Paper](https://arxiv.org/abs/2503.09186)
+- **EC-Flow**: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow [Paper](https://arxiv.org/abs/2507.06224) [page](https://ec-flow1.github.io/)
+- **Dense Policy**: Bidirectional Autoregressive Learning of Actions [Paper](https://arxiv.org/abs/2503.13217) [page](https://selen-suyue.github.io/DspNet/)
+- **AnyBimanual**: Transferring Unimanual Policy for General Bimanual Manipulation [Paper](https://arxiv.org/abs/2412.06779) [page](https://anybimanual.github.io/)
+- Learning Precise Affordances from Egocentric Videos for Robotic Manipulation [Paper](https://arxiv.org/abs/2408.10123v1) [page](https://reagan1311.github.io/affgrasp)
+- **iManip**: Skill-Incremental Learning for Robotic Manipulation [Paper](https://arxiv.org/abs/2503.07087) 
+- Spatial-Temporal Aware Visuomotor Diffusion Policy Learning [Paper](https://arxiv.org/abs/2507.06710) [page](https://zhenyangliu.github.io/DP4/)
+- **Wavelet Policy**: Lifting Scheme for Policy Learning in Long-Horizon Tasks [Paper](https://arxiv.org/abs/2507.04331) [page](https://hhuang-code.github.io/wavelet_policy/)
+- 4D Visual Pre-training for Robot Learning [Paper](https://iccv.thecvf.com/virtual/2025/poster/972)
+
+## Accelerating and Deploying
+- Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control [Paper](https://arxiv.org/abs/2505.15304)
+- On-Device Diffusion Transformer Policy for Efficient Robot Manipulation [Paper](https://arxiv.org/abs/2508.00697)
+- **COSMO**: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation [Paper](https://arxiv.org/abs/2503.24065)
+- **CARP**: Coarse-to-Fine Autoregressive Prediction for Visuomotor Policy Learning [Paper](https://arxiv.org/abs/2412.06782) [page](https://carp-robot.github.io/)
+
+## Perception
+- **EmbodiedOcc**: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding [Paper](https://arxiv.org/abs/2412.04380) [page](https://ykiwu.github.io/EmbodiedOcc/)
+- **Embodied Image Captioning**: Self-supervised Learning Agents for Spatially Coherent Image Descriptions [Paper](https://arxiv.org/abs/2504.08531) [page](https://hsp-iit.github.io/embodied-captioning/)
+
+## Benchmark and Dataset
+- **VLABench**: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks [Paper](https://arxiv.org/abs/2412.18194) [page](https://iranqin.github.io/robofactory/)
+- **RoboFactory**: Exploring Embodied Agent Collaboration with Compositional Constraints [Paper](https://arxiv.org/abs/2503.16408) [page](https://vlabench.github.io/)
+- **HUMOTO**: A 4D Dataset of Mocap Human Object Interactions [Paper](https://arxiv.org/abs/2504.10414) [page](https://jiaxin-lu.github.io/humoto/)
+- **RoboMM**: All-in-One Multimodal Large Model for Robotic Manipulation [Paper](https://arxiv.org/abs/2412.07215)
+- **MoMa-Kitchen**: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation [Paper](https://arxiv.org/abs/2503.11081) [page](https://momakitchen.github.io/)
+- **RoboPearls**: Editable Video Simulation for Robot Manipulation [Paper](https://arxiv.org/abs/2506.22756) [page](https://tangtaogo.github.io/RoboPearls/)
+- **DexH2R**: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover [Paper](https://arxiv.org/abs/2506.23152) [page](https://dexh2r.github.io/)
+- **Beyond the Destination**: A Novel Benchmark for Exploration-Aware Embodied Question Answering [Paper](https://arxiv.org/abs/2503.11117) [page](https://github.com/HCPLab-SYSU/EXPRESS-Bench)
+- **RobAVA**: A Large-scale Dataset and Baseline Towards Video based Robotic Arm Action Understanding [Paper](https://iccv.thecvf.com/virtual/2025/poster/1787)
+- **RoboAnnotatorX**: A Comprehensive and Universal Annotation Framework for Accurate Understanding of Long-horizon Robot Demonstration [Paper](https://iccv.thecvf.com/virtual/2025/poster/2215)
+
 # ICML2025
 
 ## Vision-Language-Action Models
@@ -45,7 +128,6 @@
 - **A Large Recurrent Action Model:** xLSTM enables Fast Inference for Robotics Tasks [paper](https://arxiv.org/abs/2410.22391) [page](https://github.com/ml-jku/LRAM)
 
 ## Planning and Reasoning
-- **SMD** Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models [Paper](https://arxiv.org/abs/2502.03607)
 - Efficient Robotic Policy Learning via Latent Space Backward Planning [paper](https://arxiv.org/abs/2505.06861) [page](https://lbp-authors.github.io/)
 - Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling [paper](https://arxiv.org/pdf/2410.01440) [page](https://github.com/Singularity0104/equilibrium-planner)
 
